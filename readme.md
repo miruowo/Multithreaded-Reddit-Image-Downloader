@@ -20,7 +20,3 @@ Does exactly what it says on the tin.
       -s S        subreddit
       -i I        number of images
       -o O        order (new/top/hot)
-
-### Tip
-
-BTC - 1AYSiE7mhR9XshtS4mU2rRoAGxN8wSo4tK
